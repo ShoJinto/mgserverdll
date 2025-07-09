@@ -1,0 +1,7 @@
+*.crt
+*.key
+*.exe
+*.dll
+/.vscode
+*.pem
+*.a

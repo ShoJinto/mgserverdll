@@ -1,0 +1,15 @@
+LIBRARY mgServer
+EXPORTS
+    Server_Create
+    Server_Destroy
+    Server_SetConfig
+    Server_SetCallbacks
+    Server_Start
+    Server_Stop
+    Server_Poll
+    Server_WsSendToOne
+    Server_WsBroadcast
+    Server_HttpReply
+    Server_HttpServeFile
+    Server_SetLogLevel
+    Server_SetLogTarget
